@@ -1,0 +1,31 @@
+# Bytecode ve önbellekler
+__pycache__/
+*.py[cod]
+*.so
+
+# Sanal ortamlar
+.venv/
+venv/
+env/
+
+# Derleme çıktıları
+build/
+dist/
+*.egg-info/
+
+# Ortam dosyaları
+.env
+.env.*
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# SQLite dosyaları
+*.db
+*.sqlite3
+
+# uv çıktıları
+.uv/
+

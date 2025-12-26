@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "database-agent": {
+      "command": "python3",
+      "args": [
+        "mcp_db_agent.py"
+      ],
+      "cwd": "${workspaceRoot}"
+    }
+  }
+}
